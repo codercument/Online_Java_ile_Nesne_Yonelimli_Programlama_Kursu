@@ -2,11 +2,10 @@
 
 ## Temel kavramlar
 + Java ortamı
-+ JDK ve JVM
-+ Sayı sistemleri
++ _JDK_ ve _JVM_
 + Çevirici programlar, derleyiciler yorumlayıcılar
 + İşletim Sistemleri
-+ IDE (Integrated Development Environment) programlar
++ IDE _(Integrated Development Environment)_ programları
 + Temel sayı sistemleri
 + JDK kurulumu
 + Merhaba Java program
@@ -15,15 +14,15 @@
 
 ## Tür kavramı
 + Java’da temel türler
-+ Tamsayı türleri, gerçek sayı türleri, char türü ve boolean türü 
++ Tamsayı türleri, gerçek sayı türleri, _char_ türü ve _boolean_ türü 
 + Değişkenler ve faaliyet alanı
 + Yerel değişkenler
 
 ## Metotlar
 + Metotların geri dönüş değerleri
-+ return deyimi
++ _return_ deyimi
 + Metotların parametre değişkenleri
-+ Matematiksel işlem yapan yararlı metotlar: Math sınıfı
++ Matematiksel işlem yapan yararlı metotlar: _Math_ sınıfı
 
 ## Temel Operatörler
 + Operatörlerin sınıflandırılması
@@ -36,15 +35,17 @@
 + İşlemli atama operatörleri
 
 ## Kontrol deyimleri
-+ while döngü deyimleri (while ve do-while döngüleri)
-+ for döngü deyimi
-+ break ve continue deyimleri
-+ Etiketli break ve etiketli continue deyimleri
-+ switch deyimi
++ _if_ deyimi
++ while döngü deyimi
++ _do while_ döngü deyimi
++ _for_ döngü deyimi
++ _break_ ve _continue_ deyimleri
++ Etiketli _break_ ve etiketli _continue_ deyimleri
++ _switch_ deyimi
 + Örnek programlar
 
 ## Tür dönüştürmeleri
-+ Farklı  türlerin birbirine atanması
++ Farklı türlerin birbirine atanması
 + İşlem öncesi otomatik tür dönüşümleri
 + Tür dönüştürme operatörü
 
@@ -52,7 +53,7 @@
 + Koşul operatörünün özellikleri
 + Koşul operatörünün kullanıldığı durumlar
 
-## Aynı isimde metotlar (method overloading)
+## Aynı isimde metotlar _(method overloading)_
 + Bir sınıf içerisinde aynı isimde metotlar
 + Bir metodun imzası
 + Çağırma sırasında hangi metodun çağrılacağının belirlenme süreci _(overload resolution)_
@@ -78,27 +79,27 @@
 + Referans geri dönüş değerli metotlar
 + Sınıfın _static_ veri elemanları
 + Sınıfın _non-static_ ve _static_ metotları
-+ Sınıfın non-static metotları içerisinde non-static ve static elemanlara doğrudan erişim durumu
-+ Sınıfın static metotları içerisinde non-static ve static elemanlara doğrudan erişim durumu
++ Sınıfın _non-static_ metotları içerisinde _non-static_ ve _static_ elemanlara doğrudan erişim durumu
++ Sınıfın _static_ metotları içerisinde _non-static_ ve _static_ elemanlara doğrudan erişim durumu
 + Örnek yararlı sınıflar
 
-## Sınıfların başlangıç metotları (constructor)
+## Sınıfların başlangıç metotları _(constructors)_
 + Nesne yaratılması adımları
 + Sınıfın varsayılan _(default)_ başlangıç metodu
-+ Başlangıç metotlarının overload edilmesi
++ Başlangıç metotlarının _overload_ edilmesi
 + Örnek yararlı sınıflar
 
-## Rasgele sayı üretimi (Random sınıfı)
+## Rasgele sayı üretimi _(Random sınıfı)_
 + Rasgele sayı üretimi
 + Random sınfının metotları
 + Tohum değeri _(seed value)_ kavramı 
-+ Random sınıfının tohum değeri parametreli başlangıç metodu ve setSeed metodu
++ Random sınıfının tohum değeri parametreli başlangıç metodu ve _setSeed_ metodu
 + Örnek programlar
 
 ## String sınıfı
-+ Immutable sınıf kavramı
++ _Immutable_ sınıf kavramı
 + String nesnesinin bellekteki durumu
-+ String sabitleri (String literals)
++ String sabitleri _(String literals)_
 + String sınıfının metotları
 + String işlemlerine yönelik yararlı metotların yazılması
 + Örnek programlar
