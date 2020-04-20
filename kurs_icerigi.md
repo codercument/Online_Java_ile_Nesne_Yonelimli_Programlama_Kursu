@@ -98,10 +98,10 @@
 
 ## String sınıfı
 + _Immutable_ sınıf kavramı
-+ String nesnesinin bellekteki durumu
-+ String sabitleri _(String literals)_
-+ String sınıfının metotları
-+ String işlemlerine yönelik yararlı metotların yazılması
++ _String_ nesnesinin bellekteki durumu
++ _String_ sabitleri _(String literals)_
++ _String_ sınıfının metotları
++ _String_ işlemlerine yönelik yararlı metotların yazılması
 + Örnek programlar
 
 ## Diziler (Arrays) ve uygulamalar
@@ -122,7 +122,7 @@
 + Dizi dizileri
 + Dizi dizilerinin çok boyutlu dizi gibi kullanılması
 + Dizi dizilerine ilk değer verilmesi
-+ Matrisler ve matrislerlere ilişkin algoritmalar
++ Matrisler ve matrislere ilişkin algoritmalar
 + Örnek programlar
 
 ## Paketler
@@ -137,8 +137,8 @@
 ## İsim arama
 + Niteliksiz _(unqualified)_ isim arama
 + Nitelikli _(qualified)_ isim arama
-+ import bildirimleri _(import on demand declaration, import single type declaration)_
-+ import static bildirimleri _(import static on demand declaration, import static single type declaration)_
++ _import_ bildirimleri _(import on demand declaration, import single type declaration)_
++ _import static_ bildirimleri _(import static on demand declaration, import static single type declaration)_
 
 ## Sınıflarda temel erişim kuralları
 + _public_ erişimcisi
@@ -147,7 +147,7 @@
 + _no-modifier_ erişimcisi
 + _protected_ erişimcisi
 + Başlangıç metodunun _private_ olması durumu
-+ Singleton sınıf tasarımı: _lazy implementation_
++ _Singleton_ sınıf tasarımı: _lazy implementation_
 + Örnek sınıflar
 
 ## Sınıflar arası ilişkiler
@@ -161,7 +161,7 @@
 + _Super class_ (taban sınıf) ve _sub class_ (türemiş sınıf) kavramları
 + Türetme sentaksı
 + Başlangıç metodu içerisinde taban sınıfın başlangıç metodunun çağrılması
-+ Başlangıç metodu içerisinde taban sınfın istenilen başlangıç metodunun çağrılması: super sentaksı
++ Başlangıç metodu içerisinde taban sınfın istenilen başlangıç metodunun çağrılması: _super_ sentaksı
 + Başlangıç metodu içerisinde başka bir başlangıç metodunun çağrılması: _this_ sentaksı
 + _protected_ bölümün anlamı
 + Object sınıfı
@@ -191,8 +191,8 @@
 + Örnek sınıflar
 
 ## null referans
-+ null adres kavramı ve null sabiti
-+ null referansın kullanıldığı durumlar
++ _null_ adres kavramı ve _null_ sabiti
++ _null_ referansın kullanıldığı durumlar
 
 ## Temel algoritma analizi
 + Algoritmanın karmaşıklığı
@@ -203,9 +203,9 @@
 + O(k ^ n), O(n!) gibi özel karmaşıklıklar
 
 ## Dinamik büyüyen dizi veri yapısı
-+ Dinamik büyüyen veri yapısına ilişkin temel kavramlar: capacity, size vs.
++ Dinamik büyüyen veri yapısına ilişkin temel kavramlar: _capacity_, _size_ vs.
 + Dinamik büyüyen veri yapısına ilişkin metotların karmaşıklık durumları
-+ ArrayList ve Vector sınıfları
++ _ArrayList_ ve _Vector_ sınıfları
 + Örnek programlar
 + Örnek bir dinamik büyüyen dizi sınıfının yazılması
 
@@ -213,7 +213,7 @@
 + Çok biçimliliğin programlamaya yönelik tanımları
 + Çok biçimli mekanizma
 + Sanal metotlar
-+ Sanal metotların override edilmesi
++ Sanal metotların _override_ edilmesi
 + Metotların _override_ edilmesinin anlamı
 + _super_ referansı
 + _Override_ edilen metot içerisinde taban sınıfın aynı metodunun çağrılması _(augmentation)_
@@ -232,14 +232,14 @@
 ## Exception işlemleri
 + _Exception_ kavramı kullanımı
 + _Exception_ sınıf hiyerarşisi: _Throwable_, _Exception_, _Error_ ve _RuntimeException_ sınıfları
-+ _throw_ anahtar sözcüğü ve bir exception nesnesinin fırlatılması
++ _throw_ anahtar sözcüğü ve bir _exception_ nesnesinin fırlatılması
 + _try_ blokları
 + _catch_ blokları
 + _catch_ blokları parametrelerine ilişkin sınıflar ve uygun _catch_ bloğunun bulunması
 + Yeniden fırlatma _(rethrow)_
-+ İçiçe try bloklarının bulunması durumu
++ İçiçe _try_ bloklarının bulunması durumu
 + _finally_ bloğu
-+ Yakalanamayan bir exception durumu
++ Yakalanamayan _exception_ durumu
 + _Exception_ sınıflarının anlamı
 + _Cause exception_
 + _checked_ ve _unchecked exception_ sınıfları
@@ -247,12 +247,12 @@
 + Önemli _exception_ sınıfları
 + Örnek sınıfların _exception_ açısından düzenlenmesi ve genel hale getirilmesi
 
-## Arayüzler (interfaces)
+## Arayüzler _(interfaces)_
 + Arayüzlerin elemanları
 + Arayüzler içerisinde olabilecek elemanların Java sürümlerine göre farklılıkları
 + Bir sınıfın desteklediği arayüzler ve metotların _override_ edilmesi
-+ Marker arayüzler, fonksiyonel arayüzler
-+ Java 8 ile eklenen arayüz içerisinde default metotlar ve static metotlar
++ _Marker_ arayüzler, fonksiyonel arayüzler
++ Java 8 ile eklenen arayüz içerisinde _default_ metotlar ve _static_ metotlar
 + Arayüzler ile _abstract_ sınıflar arasındaki farklar
 + Arayüzler arası tür dönüştürme ayrıntıları
 + Çok kullanılan bazı arayüzler
@@ -266,8 +266,8 @@
 + Dosya üzerinde bütünsel işlemler yapan sınıflar
 + Dosylar üzerinde ayrıntılı işlem yapan sınıflar,
 + _File_ sınıfının dosya ve dizinler üzerinde işlem yapan metotlar
-+ Path arayüzü ve Files sınıfı
-+ InputStream ve OutputStream soyut sınıfları
++ _Path_ arayüzü ve _Files_ sınıfı
++ _InputStream_ ve _OutputStream_ soyut sınıfları
 + _FileInputStream_ ve _FileOutputStream_ sınıfları
 + Dosya göstericisi _(file pointer)_ kavramı
 + Dosya göstericisinin _EOF_ durumu
@@ -279,13 +279,13 @@
 ## Generic sınıflar ve metotlar
 + Generic sınıflar
 + Generic sınıflarda türetme işlemleri
-+ Generic sınıflarda new operatörü ile <> (diamond syntax) kullanımı
++ Generic sınıflarda _new_ operatörü ile _<> (diamond syntax)_ kullanımı
 + Generic arayüzler
- + Generic türlerde kısıtlar: extends ve super anahtar sözcüğünün generic parametrelerde kullanımı
++ Generic türlerde kısıtlar: _extends_ ve _super_ anahtar sözcüğünün generic parametrelerde kullanımı
 + Generic türlerde joker karakter
-+ Generic sınıflarda alt sınır ve üst sınır belirlenmesi (invariant, covariant ve contra-variant)
++ Generic sınıflarda alt sınır ve üst sınır belirlenmesi _(invariant, covariant ve contra-variant)_
 + Generic metotlar
 + Generic metotlarda parametre türlerinin tespiti
-+ Generic türlerin ve metotların generic parametrelerinin arakoda Object olarak aktarılması
++ Generic türlerin ve metotların generic parametrelerinin arakoda _Object_ olarak aktarılması
 + Örnek sınıflar ve programlar
 	
