@@ -106,22 +106,22 @@
 
 ## Diziler (Arrays) ve uygulamalar
 + Dizi referansları
-+ Dizi'ye ilişkin nesnelerin bellekteki durumu
++ Diziye ilişkin nesnelerin bellekteki durumu
 + Dizi elemanlarına erişim
-+ Dizilere ilkdeğer verilmesi
++ Dizilere ilk değer verilmesi
 + Dizilerin metotlara geçirilmesi: dizi referansı parametreli metotlar
 + Dizi referansı döndüren metotlar
 + Dizilere ilişkin temel algoritmaların yazımı
 + Dizilere ilişkin yararlı metotların yazımı
-+ Dizilerde bazı sıralama algoritmaları: kabarcık (bubble) ve seçerek sıralama algoritmaları
-+ char türden diziler
-+ char türden diziler ve String sınıfı
++ Dizilerde bazı sıralama algoritmaları: kabarcık sıralaması _(bubble sort)_ ve _seçerek sıralama _(selection sort)_ algoritmaları
++ _char_ türden diziler
++ _char_ türden diziler ve _String_ sınıfı
 + Referans dizileri
 + Referans dizilerine ilkdeğer verilmesi
-+ String türden diziler
++ _String_ türden diziler
 + Dizi dizileri
 + Dizi dizilerinin çok boyutlu dizi gibi kullanılması
-+ Dizi dizilerine ilkdeğer verilmesi
++ Dizi dizilerine ilk değer verilmesi
 + Matrisler ve matrislerlere ilişkin algoritmalar
 + Örnek programlar
 
@@ -136,58 +136,58 @@
 
 ## İsim arama
 + Niteliksiz _(unqualified)_ isim arama
-+ Nitelikli (qualified) isim arama
-+ import bildirimleri (import on demand declaration, import single type declaration)
-+ import static bildirimleri (import static on demand declaration, import static single type declaration)
++ Nitelikli _(qualified)_ isim arama
++ import bildirimleri _(import on demand declaration, import single type declaration)_
++ import static bildirimleri _(import static on demand declaration, import static single type declaration)_
 
 ## Sınıflarda temel erişim kuralları
-+ public erişimcisi
-+ private erişimcisi
++ _public_ erişimcisi
++ _private_ erişimcisi
 + Erişim belirleyicilerin paketlerle ilişkisi
-+ no-modifier erişimcisi
-+ protected erişimcisi
-+ Başlangıç metodunun private olması durumu
-+ Singleton sınıf tasarımı: lazy implementation
++ _no-modifier_ erişimcisi
++ _protected_ erişimcisi
++ Başlangıç metodunun _private_ olması durumu
++ Singleton sınıf tasarımı: _lazy implementation_
 + Örnek sınıflar
 
 ## Sınıflar arası ilişkiler
-+ Composition
-+ Aggregation
-+ Association
-+ Inheritance
++ _Composition_
++ _Aggregation_
++ _Association_
++ _Inheritance_
 + Sınıflar arası ilişkilerin modellenmesi
 
 ## Türetme (inheritance)
-+ super class (taban sınıf) ve sub class (türemiş sınıf) kavramları
++ _Super class_ (taban sınıf) ve _sub class_ (türemiş sınıf) kavramları
 + Türetme sentaksı
 + Başlangıç metodu içerisinde taban sınıfın başlangıç metodunun çağrılması
 + Başlangıç metodu içerisinde taban sınfın istenilen başlangıç metodunun çağrılması: super sentaksı
-+ Başlangıç metodu içerisinde başka bir başlangıç metodunun çağrılması: this sentaksı
-+ protected bölümüm anlamı
++ Başlangıç metodu içerisinde başka bir başlangıç metodunun çağrılması: _this_ sentaksı
++ _protected_ bölümün anlamı
 + Object sınıfı
 + Örnek sınıflar
 
 ## Taban sınıf ve türemiş sınıf arasındaki dönüşümler
-+ Yukarıya doğru dönüşüm (upcasting)
++ Yukarıya doğru dönüşüm _(upcasting)_
 + Yukarıya doğru dönüşümün anlamı
 + Referansların statik ve dinamik türleri
-+ Aşağıya doğru dönüşüm (downcasting)
++ Aşağıya doğru dönüşüm _(down-casting)_
 + Haklı ve haksız dönüşüm kavramı
-+ instanceof opetörü
-+ Sarmalayan (wrapper) sınıflar
++ _instanceof_ opetörü
++ Sarmalayan _(wrapper)_ sınıflar
 + Number sınıfı ve metotlarının anlamı
-+ Otomatik kutulama (auto-boxing) ve otomatik kutuyu açma (auto-unboxing)
-+ final sınıflar
++ Otomatik kutulama _(auto-boxing)_ ve otomatik kutuyu açma _(auto-unboxing)_
++ _final_ sınıflar
 + Örnek programlar
 
 ## Sınıflar içerisinde bloklar
-+ Sınıfların static blokları (static initializers)
-+ Sınıfların static olmayan blokları (non-static initializers)
++ Sınıfların _static_ blokları _(static initializers)_
++ Sınıfların _static_ olmayan blokları _(non-static initializers)_
 
 ## this referansı
-+ this referansının anlamı
-+ non-static metotlar içerisinde this kullanmı
-+ this referansının kullanıldığı örnek durumlar: fluent kalıbı
++ _this_ referansının anlamı
++ _non-static_ metotlar içerisinde _this_ kullanmı
++ _this_ referansının kullanıldığı örnek durumlar: _fluent_ kalıbı
 + Örnek sınıflar
 
 ## null referans
@@ -230,15 +230,15 @@
 + Örnek sınıflar
 
 ## Exception işlemleri
-+ Exception kavramı kullanımı
-+ Exception sınıf hiyerarşisi: Throwable, Exception, Error ve RuntimeException sınıfları
-+ throw anahtar sözcüğü ve bir exception nesnesinin fırlatılması
-+ try blokları
-+ catch blokları
-+ catch blokları parametrelerine ilişkin sınıflar ve uygun catch bloğunun bulunması
-+ Yeniden fırlatma (rethrow)
++ _Exception_ kavramı kullanımı
++ _Exception_ sınıf hiyerarşisi: _Throwable_, _Exception_, _Error_ ve _RuntimeException_ sınıfları
++ _throw_ anahtar sözcüğü ve bir exception nesnesinin fırlatılması
++ _try_ blokları
++ _catch_ blokları
++ _catch_ blokları parametrelerine ilişkin sınıflar ve uygun catch bloğunun bulunması
++ Yeniden fırlatma _(rethrow)_
 + İçiçe try bloklarının bulunması durumu
-+ finally bloğu
++ _finally_ bloğu
 + Yakalanamayan bir exception durumu
 + Exception sınıflarının anlamı
 + Cause exception
