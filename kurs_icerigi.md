@@ -264,7 +264,7 @@
 + Processin çalışma dizini _(current working directory)_
 + Metin _(text)_ ve ikili (binary) dosyalar
 + Dosya üzerinde bütünsel işlemler yapan sınıflar
-+ Dosylar üzerinde ayrıntılı işlem yapan sınıflar,
++ Dosyalar üzerinde ayrıntılı işlem yapan sınıflar
 + _File_ sınıfının dosya ve dizinler üzerinde işlem yapan metotlar
 + _Path_ arayüzü ve _Files_ sınıfı
 + _InputStream_ ve _OutputStream_ soyut sınıfları
@@ -281,7 +281,7 @@
 + Generic sınıflarda türetme işlemleri
 + Generic sınıflarda _new_ operatörü ile _<> (diamond syntax)_ kullanımı
 + Generic arayüzler
-+ Generic türlerde kısıtlar: _extends_ ve _super_ anahtar sözcüğünün generic parametrelerde kullanımı
++ Generic türlerde kısıtlar: _extends_ ve _super_ anahtar sözcüğünün _generic_ parametrelerde kullanımı
 + Generic türlerde joker karakter
 + Generic sınıflarda alt sınır ve üst sınır belirlenmesi _(invariant, covariant ve contra-variant)_
 + Generic metotlar
