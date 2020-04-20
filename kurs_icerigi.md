@@ -55,41 +55,43 @@
 ## Aynı isimde metotlar (method overloading)
 + Bir sınıf içerisinde aynı isimde metotlar
 + Bir metodun imzası
-+ Çağırma sırasında hangi metodun çağrılacağının belirlenme süreci (overload resolution)
-+ Tam uyum (best match)
++ Çağırma sırasında hangi metodun çağrılacağının belirlenme süreci _(overload resolution)_
++ Tam uyum _(best match)_
 + Tam uyum olmadığında hangi metodun çağrılacağının belirlenme süreci
 
-## Nesne Yönelimli Programlama Tekniği, Adres kavramı
+## Nesne Yönelimli Programlama Tekniği
 + Nesne yönelimli programlama tekniğine ilişkin temel kavramlar
+
+## Adres kavramı
 + Adres kavramı
 + Stack ve heap alanları
-+ Ömür (storage duration) kavramı: yerel ve parametre değişkenlerinin ömürleri
++ Ömür _(storage duration)_ kavramı: yerel ve parametre değişkenlerinin ömürleri
 
 ## Temel sınıf kavramları
 + Sınıf ve nesne kavramları
 + Referans türleri ve değer türleri
 + Referans kavramı
-+ new operatörü
-+ Sınıfın static olmayan veri elemanlarına erişim ve nokta operatörü
-+ Sınıfın static olmayan veri elemanlarının defaul değerleri
++ _new_ operatörü
++ Sınıfın _static_ olmayan veri elemanlarına erişim ve nokta operatörü
++ Sınıfın _static_ olmayan veri elemanlarının varsayılan değerleri
 + Referans parametreli metotlar
 + Referans geri dönüş değerli metotlar
-+ Sınıfın static veri elemanları
-+ Sınıfın non-static ve static metotları
++ Sınıfın _static_ veri elemanları
++ Sınıfın _non-static_ ve _static_ metotları
 + Sınıfın non-static metotları içerisinde non-static ve static elemanlara doğrudan erişim durumu
 + Sınıfın static metotları içerisinde non-static ve static elemanlara doğrudan erişim durumu
 + Örnek yararlı sınıflar
 
 ## Sınıfların başlangıç metotları (constructor)
 + Nesne yaratılması adımları
-+ Sınıfın varsayılan (default) başlangıç metodu
++ Sınıfın varsayılan _(default)_ başlangıç metodu
 + Başlangıç metotlarının overload edilmesi
 + Örnek yararlı sınıflar
 
 ## Rasgele sayı üretimi (Random sınıfı)
 + Rasgele sayı üretimi
 + Random sınfının metotları
-+ Tohum değeri (seed value) kavramı 
++ Tohum değeri _(seed value)_ kavramı 
 + Random sınıfının tohum değeri parametreli başlangıç metodu ve setSeed metodu
 + Örnek programlar
 
@@ -128,11 +130,11 @@
 + İçiçe paket bildirimleri
 + Paketler ve dizinlerin ilişkisi
 + Paket isimlendirmesine ilişkin teknikler
-+ Kaynak dizin (source folder) 
++ Kaynak dizin _(source folder)_
 + Yazılmış olan yararlı sınıflara ilişki uygun paketler
 
 ## İsim arama
-+ Niteliksiz (unqualified) isim arama
++ Niteliksiz _(unqualified)_ isim arama
 + Nitelikli (qualified) isim arama
 + import bildirimleri (import on demand declaration, import single type declaration)
 + import static bildirimleri (import static on demand declaration, import static single type declaration)
