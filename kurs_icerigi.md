@@ -84,7 +84,7 @@
 + Örnek yararlı sınıflar
 
 ## Sınıfların başlangıç metotları _(constructors)_
-+ Nesne yaratılması adımları
++ Nesne oluşturulması adımları
 + Sınıfın varsayılan _(default)_ başlangıç metodu
 + Başlangıç metotlarının _overload_ edilmesi
 + Örnek yararlı sınıflar
@@ -93,7 +93,7 @@
 + Rasgele sayı üretimi
 + Random sınfının metotları
 + Tohum değeri _(seed value)_ kavramı 
-+ Random sınıfının tohum değeri parametreli başlangıç metodu ve _setSeed_ metodu
++ _Random_ sınıfının tohum değeri parametreli başlangıç metodu ve _setSeed_ metodu
 + Örnek programlar
 
 ## String sınıfı
@@ -198,7 +198,7 @@
 + Algoritmanın karmaşıklığı
 + Karmaşıklığın ölçütü
 + Karmaşıklığın gösterimine ilişkin notasyonlar
-+ Big O notasyonu ile çeşitli karmaşıklık durumlarının incelenmesi
++ _Big O_ notasyonu ile çeşitli karmaşıklık durumlarının incelenmesi
 + O(1), O(logn), O(n), O(n * Logn), O(n ^ 2), O(n ^ 3), ... , O(n ^ k) karmaşıklıkları
 + O(k ^ n), O(n!) gibi özel karmaşıklıklar
 
@@ -214,17 +214,17 @@
 + Çok biçimli mekanizma
 + Sanal metotlar
 + Sanal metotların override edilmesi
-+ Metotların override edilmesinin anlamı
-+ super referansı
-+ Override edilen metot içerisinde taban sınıfın aynı metodunun çağrılması (augmentation)
-+ Override edilen metodun erişim belirleyicisinin erişim anlamında yükseltilmesi
-+ final metotlar
++ Metotların _override_ edilmesinin anlamı
++ _super_ referansı
++ _Override_ edilen metot içerisinde taban sınıfın aynı metodunun çağrılması _(augmentation)_
++ _Override_ edilen metodun erişim belirleyicisinin erişim anlamında yükseltilmesi
++ _final_ metotlar
 + Çok biçimliliğe ilişkin örnek tasarımlar ve kodlanması
 
 ## Soyut sınıflar ve metotlar (abstract classes and methods)
 + Soyut sınıf ve metotların anlamı
-+ Soyut metotların override edilmesi
-+ Soyut metotların override edilmemesi durumu
++ Soyut metotların _override_ edilmesi
++ Soyut metotların _override_ edilmemesi durumu
 + Soyut sınıfların taban sınıf referansı olarak kullanılması
 + Soyut sınıfların başlangıç metotları
 + Örnek sınıflar
@@ -235,44 +235,44 @@
 + _throw_ anahtar sözcüğü ve bir exception nesnesinin fırlatılması
 + _try_ blokları
 + _catch_ blokları
-+ _catch_ blokları parametrelerine ilişkin sınıflar ve uygun catch bloğunun bulunması
++ _catch_ blokları parametrelerine ilişkin sınıflar ve uygun _catch_ bloğunun bulunması
 + Yeniden fırlatma _(rethrow)_
 + İçiçe try bloklarının bulunması durumu
 + _finally_ bloğu
 + Yakalanamayan bir exception durumu
-+ Exception sınıflarının anlamı
-+ Cause exception
-+ checked ve unchecked exception sınıfları
-+ throws anahtar sözcüğü
-+ Önemli exception sınıfları
-+ Örnek sınıfların exception açısından düzenlenmesi ve genel hale getirilmesi
++ _Exception_ sınıflarının anlamı
++ _Cause exception_
++ _checked_ ve _unchecked exception_ sınıfları
++ _throws_ anahtar sözcüğü
++ Önemli _exception_ sınıfları
++ Örnek sınıfların _exception_ açısından düzenlenmesi ve genel hale getirilmesi
 
 ## Arayüzler (interfaces)
 + Arayüzlerin elemanları
-+ Arayüzler içerisinde olabiliecek elemanların Java sürümlerine göre farklılıkları
-+ Bir sınıfın desteklediği arayüzler ve metotların override edilmesi
-+ Marker arayüzler, fonlsiyonel arayüzler
++ Arayüzler içerisinde olabilecek elemanların Java sürümlerine göre farklılıkları
++ Bir sınıfın desteklediği arayüzler ve metotların _override_ edilmesi
++ Marker arayüzler, fonksiyonel arayüzler
 + Java 8 ile eklenen arayüz içerisinde default metotlar ve static metotlar
-+ Arayüzler ile abstract sınıflar arasındaki farklar
++ Arayüzler ile _abstract_ sınıflar arasındaki farklar
 + Arayüzler arası tür dönüştürme ayrıntıları
 + Çok kullanılan bazı arayüzler
-+ try-with resources bloğu ve kullanımı: AutoCloseable ve Closeable arayüzleri
++ _try-with resources_ bloğu ve kullanımı: _AutoCloseable_ ve _Closeable_ arayüzleri
 
 ## Dosya işlemleri
-+ Dosya ve dizin (directory) kavramları
-+ Dosya yol ifadeleri: absolute and relative path
-+ Processin çalışma dizini (current working directory)
-+ Metin (text) ve ikili (binary) dosyalar
++ Dosya ve dizin _(directory)_ kavramları
++ Dosya yol ifadeleri: _absolute_ and _relative_ path
++ Processin çalışma dizini _(current working directory)_
++ Metin _(text)_ ve ikili (binary) dosyalar
 + Dosya üzerinde bütünsel işlemler yapan sınıflar
 + Dosylar üzerinde ayrıntılı işlem yapan sınıflar,
-+ File sınıfının dosya ve dizinler üzerinde işlem yapan metotlar
++ _File_ sınıfının dosya ve dizinler üzerinde işlem yapan metotlar
 + Path arayüzü ve Files sınıfı
 + InputStream ve OutputStream soyut sınıfları
-+ FileInputStream ve FileOutputStream sınıfları
-+ Dosya göstericisi (file pointer) kavramı
-+ Dosya göstericisinin EOF durumu
++ _FileInputStream_ ve _FileOutputStream_ sınıfları
++ Dosya göstericisi _(file pointer)_ kavramı
++ Dosya göstericisinin _EOF_ durumu
 + Dosyadan okuma ve yazma işlemleri
-+ RandomAccessFile sınıfı 
++ _RandomAccessFile_ sınıfı 
 + Dosya göstericisinin konumlandırılması
 + Örnek programlar
 
