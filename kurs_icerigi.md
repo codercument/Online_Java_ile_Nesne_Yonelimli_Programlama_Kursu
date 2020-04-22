@@ -62,6 +62,9 @@
 
 ## Nesne Yönelimli Programlama Tekniği
 + Nesne yönelimli programlama tekniğine ilişkin temel kavramlar
++ Sınıf ve nesne kavramları
++ Aynı isimde metotların anlamı
++ Diğer programlama teknikleri hakkında bilgiler
 
 ## Adres kavramı
 + Adres kavramı
@@ -288,4 +291,3 @@
 + Generic metotlarda parametre türlerinin tespiti
 + Generic türlerin ve metotların generic parametrelerinin arakoda _Object_ olarak aktarılması
 + Örnek sınıflar ve programlar
-	
