@@ -1,6 +1,6 @@
 # Java ile Nesne YönelimliProgramlama
 
-+ Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından düzenlenmektedir.
++ Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından düzenlenmektedir.
 + Kursun __09 Mayıs 2020 Cumartesi__ günü başlayacaktır.
 + Kurs eğitmeni __Oğuz Karan__'dır.
 + Kurs gerçek zamanlıdır.
