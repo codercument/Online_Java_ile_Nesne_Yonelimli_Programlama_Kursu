@@ -23,14 +23,17 @@ Bu programa katılabilmek için daha önce programlama ile tanışmış olmanız
 Programın toplam süresi `162` saattir. 
 
 ## Ders Günleri ve Saatleri
-Dersler hafta içi _Cumartesi - Pazar_ günleri saat `13-00 – 17-00` saatleri arasında `4’er saat` olarak yapılacaktır.
+Dersler hafta içi _Cumartesi - Pazar_ günleri saat _13-00 – 17-00_ saatleri arasında _4_er saat` olarak yapılacaktır.
 
 
 ## Eğitim İçeriği
 [Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/CSD-1993/Online-Cplusplus-Kursu/blob/master/kurs-icerigi.md)
 
 ## Eğitmen
-Kurs `C ve Sistem Programcıları Derneği` başkan yardımcısı `Oğuz Karan` tarafından verilmektedir. `Oğuz Karan` çeşitli pozisyonlarda pek çok projede bulunmuş ve pek çok kuruma eğitim vermekte ve danışmanlık yapmaktadır. Eğitim ve danışmaklık verdiği kurumlar arasında [Tübitak](https://www.tubitak.gov.tr/), 
+Kurs _C ve Sistem Programcıları Derneği_ başkan yardımcısı _Oğuz Karan_ tarafından verilmektedir. 
+_Oğuz Karan_ çeşitli pozisyonlarda pek çok projede bulunmuş ve pek çok kuruma eğitim vermekte ve danışmanlık yapmaktadır. 
+Eğitim ve danışmaklık verdiği kurumlar arasında 
+[Tübitak](https://www.tubitak.gov.tr/), 
 [Havelsan](https://www.havelsan.com.tr/), 
 [Roketsan](http://www.roketsan.com.tr/),
 [Netaş](http://www.netas.com.tr/ana-sayfa/),
@@ -48,9 +51,9 @@ Kurs `C ve Sistem Programcıları Derneği` başkan yardımcısı `Oğuz Karan` 
 [Crytek](https://www.crytek.com/),
 [Erdemir](https://www.erdemir.com.tr/),
 [İsdemir](https://www.isdemir.com.tr/),
-[Asis Elektronik] (https://www.asiselektronik.com.tr/),
+[Asis Elektronik](https://www.asiselektronik.com.tr/),
 [Ingenico] (https://www.ingenico.com.tr/), 
-[Integral Yatırım] (https://www.integralyatirim.com.tr/) yer almaktadır.
+[Integral Yatırım](https://www.integralyatirim.com.tr/) yer almaktadır.
 
 ## Format
 + _Java ile Nesne Yönelimli Programlama kursu_ online olarak gerçek zamanlı verilmektedir. _Udemy, Pluralsight_ ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
@@ -61,12 +64,12 @@ Kurs `C ve Sistem Programcıları Derneği` başkan yardımcısı `Oğuz Karan` 
 
 + Öğrenciler hafta içi önceden belirlenmiş belirli saatlerde eğitmene danışabilir ve rehberlik hizmeti alabilirler.
 
-+ Eğitim dili Türkçe’dir. Programlama ve `Java` Dili ile ilgili tüm terimlerin doğru İngilizce karşılıkları öğretilmekte, öğrenciler teknik ve doğru bir terminoloji kullanmaya teşvik edilmektedir.
++ Eğitim dili Türkçe’dir. Programlama ve _Java_ Dili ile ilgili tüm terimlerin doğru İngilizce karşılıkları öğretilmekte, öğrenciler teknik ve doğru bir terminoloji kullanmaya teşvik edilmektedir.
 
-+ Öğrenciler kaçırdıkları dersleri ders tarihini izleyen 3 gün içinde kendilerine verilecek şifre ile `Vimeo` üzerinden izleyebilirler.
++ Öğrenciler kaçırdıkları dersleri ders tarihini izleyen 3 gün içinde kendilerine verilecek şifre ile _Vimeo_ üzerinden izleyebilirler.
 
 ## Eğitim Materyalleri
-_Java ile Nesne Yönelimli Programlama_ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile `github ve dropbox` üzerinden paylaşılmaktadır.
+_Java ile Nesne Yönelimli Programlama_ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github ve dropbox_ üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
 Programın toplam ücreti **KDV hariç 3.000 TL**‘dir. Öğrenci olanlara _(öğrencilik durumunu belgelemeleri kaydıyla)_ __% 10__ indirim uygulanmaktadır. Katılımcılar, eğitim programı ücretini dilerlerse _2_ taksitte ödeyebilirler.
