@@ -4,7 +4,7 @@
 + Kursun __09 Mayıs 2020__ tarihinde başlayacaktır.
 + Kurs eğitmeni _Oğuz Karan_'dır.
 + Kurs gerçek zamanlıdır.
-+ Toplam kurs süresi _162_ saattir. Dersler _Cumartesi - Pazar` günleri `13:00 - 17:00` saatleri arasında yapılacaktır.
++ Toplam kurs süresi _160_ saattir. Dersler _Cumartesi - Pazar_ günleri _13:00 - 17:00_ saatleri arasında yapılacaktır.
 
 ## Kursla ilgili bağlantılar
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Unix-Linux-Sistem-Programlama-Kursu-/blob/master/kurs_tanitimi.md)
