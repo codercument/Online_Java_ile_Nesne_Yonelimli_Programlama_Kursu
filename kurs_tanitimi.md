@@ -14,13 +14,13 @@
 
 + Kurs içerisinde irili ufaklı bir çok program ve yararlı sınıflar yazılacaktır
 
-+ Bazı derslerde konuların daha iyi anlaşılmasını sağlamak için veri yapılarına ve algoritmalara `(Data structures & algorithms)` ilişkin temel kavramlar da anlatılmaktadır.
++ Bazı derslerde konuların daha iyi anlaşılmasını sağlamak için veri yapılarına ve algoritmalara _(Data structures & algorithms)_ ilişkin temel kavramlar da anlatılmaktadır.
 
 ## Ön Koşul
 Bu programa katılabilmek için daha önce programlama ile tanışmış olmanız gerekmektedir. Derneğimizde düzenlenmekte olan "Programlamaya Giriş" ya da denzeri bir programı tamamlamış olmalısınız.
 
 ## Eğitim Süresi
-Programın toplam süresi `162` saattir. 
+Programın toplam süresi _160_ saattir. 
 
 ## Ders Günleri ve Saatleri
 Dersler hafta içi _Cumartesi - Pazar_ günleri saat _13-00 – 17-00_ saatleri arasında _4_er saat` olarak yapılacaktır.
@@ -52,11 +52,11 @@ Eğitim ve danışmaklık verdiği kurumlar arasında
 [Erdemir](https://www.erdemir.com.tr/),
 [İsdemir](https://www.isdemir.com.tr/),
 [Asis Elektronik](https://www.asiselektronik.com.tr/),
-[Ingenico] (https://www.ingenico.com.tr/), 
+[Ingenico](https://www.ingenico.com.tr/), 
 [Integral Yatırım](https://www.integralyatirim.com.tr/) yer almaktadır.
 
 ## Format
-+ _Java ile Nesne Yönelimli Programlama kursu_ online olarak gerçek zamanlı verilmektedir. _Udemy, Pluralsight_ ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
++ Java ile Nesne Yönelimli Programlama kursu* online olarak gerçek zamanlı verilmektedir. _Udemy, Pluralsight_ ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
 
 + Program boyunca öğrencilere belirli aralıklarla ödevler verilmekte ve öğrencilerin yaptığı ödevler için öğrencilere geri besleme yapılmaktadır.
 
