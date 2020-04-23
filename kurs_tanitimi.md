@@ -30,7 +30,27 @@ Dersler hafta içi _Cumartesi - Pazar_ günleri saat `13-00 – 17-00` saatleri 
 [Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/CSD-1993/Online-Cplusplus-Kursu/blob/master/kurs-icerigi.md)
 
 ## Eğitmen
-Kurs `C ve Sistem Programcıları Derneği` başkan yardımcısı `Oğuz Karan` tarafından verilmektedir. `Oğuz Karan` çeşitli pozisyonlarda pek çok projede bulunmuş ve pek çok kuruma eğitim vermekte ve danışmanlık yapmaktadır. Eğitim ve danışmaklık verdiği kurumlar arasında  [Tübitak](https://www.tubitak.gov.tr/), [Havelsan](https://www.havelsan.com.tr/), [Roketsan](http://www.roketsan.com.tr/), [Netaş](http://www.netas.com.tr/ana-sayfa/), [Siemens](https://www.siemens-home.bsh-group.com/tr/),  [Arçelik](https://www.arcelik.com.tr/), [Beko](https://www.beko.com.tr/), [Sunny Elektronik](https://www.sunny.com.tr/), [BSH](https://www.bsh-group.com/tr/), [Profilo](https://www.profilo.com/), [İsbak A.Ş.](https://www.ibb.istanbul/CorporateUnit/Detail/164), [Belbim A.Ş](https://www.ibb.istanbul/CorporateUnit/Detail/156), [İspark](https://ispark.istanbul/), [Hugin](http://hugin.com.tr/tr/home), [Cardtek](https://www.paycore.com/), [Crytek](https://www.crytek.com/), [Erdemir](https://www.erdemir.com.tr/), [İsdemir](https://www.isdemir.com.tr/), [Asis Elektronik] (https://www.asiselektronik.com.tr/), [Ingenico] (https://www.ingenico.com.tr/), [Integral Yatırım] (https://www.integralyatirim.com.tr/) yer almaktadır.
+Kurs `C ve Sistem Programcıları Derneği` başkan yardımcısı `Oğuz Karan` tarafından verilmektedir. `Oğuz Karan` çeşitli pozisyonlarda pek çok projede bulunmuş ve pek çok kuruma eğitim vermekte ve danışmanlık yapmaktadır. Eğitim ve danışmaklık verdiği kurumlar arasında [Tübitak](https://www.tubitak.gov.tr/), 
+[Havelsan](https://www.havelsan.com.tr/), 
+[Roketsan](http://www.roketsan.com.tr/),
+[Netaş](http://www.netas.com.tr/ana-sayfa/),
+[Siemens](https://www.siemens-home.bsh-group.com/tr/),
+[Arçelik](https://www.arcelik.com.tr/),
+[Beko](https://www.beko.com.tr/),
+[Sunny Elektronik](https://www.sunny.com.tr/),
+[BSH](https://www.bsh-group.com/tr/),
+[Profilo](https://www.profilo.com/),
+[İsbak A.Ş.](https://www.ibb.istanbul/CorporateUnit/Detail/164),
+[Belbim A.Ş](https://www.ibb.istanbul/CorporateUnit/Detail/156),
+[İspark](https://ispark.istanbul/),
+[Hugin](http://hugin.com.tr/tr/home),
+[Cardtek](https://www.paycore.com/),
+[Crytek](https://www.crytek.com/),
+[Erdemir](https://www.erdemir.com.tr/),
+[İsdemir](https://www.isdemir.com.tr/),
+[Asis Elektronik] (https://www.asiselektronik.com.tr/),
+[Ingenico] (https://www.ingenico.com.tr/), 
+[Integral Yatırım] (https://www.integralyatirim.com.tr/) yer almaktadır.
 
 ## Format
 + _Java ile Nesne Yönelimli Programlama kursu_ online olarak gerçek zamanlı verilmektedir. _Udemy, Pluralsight_ ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
