@@ -17,20 +17,13 @@
 + Bazı derslerde konuların daha iyi anlaşılmasını sağlamak için veri yapılarına ve algoritmalara `(Data structures & algorithms)` ilişkin temel kavramlar da anlatılmaktadır.
 
 ## Ön Koşul
-Bu kursta `C++` dilinin `C` dilinden aldığı temel sentaks ve araçlar anlatılmadığından bu programa katılabilmek için belirli seviyede `C` bilmeniz gerekmektedir. Programa uygun olup olmadığınız konusunda şüpheleriniz varsa [`Necati Ergin`](https://www.linkedin.com/in/necati-ergin-045768176/) ile görüşebilirsiniz.
+Bu programa katılabilmek için daha önce programlama ile tanışmış olmanız gerekmektedir. Derneğimizde düzenlenmekte olan "Programlamaya Giriş" ya da denzeri bir programı tamamlamış olmalısınız.
 
 ## Eğitim Süresi
 Programın toplam süresi `162` saattir. 
 
 ## Ders Günleri ve Saatleri
-Dersler hafta içi `Pazartesi – Çarşamba - Cuma` günleri saat `19.30 – 22.30` saatleri arasında `3’er saat` olarak yapılacaktır.
-
-
-+ 19.30 – 20.50        1. ders
-
-+ 20.50 – 21.10        ara
-
-+ 21.10 – 22.00        2. ders
+Dersler hafta içi _Cumartesi - Pazar_ günleri saat `13-00 – 17-00` saatleri arasında `4’er saat` olarak yapılacaktır.
 
 
 ## Eğitim İçeriği
