@@ -75,7 +75,7 @@ _Java ile Nesne Yönelimli Programlama_ kursu ilgili eğitim materyalleri progra
 Programın toplam ücreti **KDV DAHİL 3.150 TL**‘dir. Öğrenci olanlara _(öğrencilik durumunu belgelemeleri kaydıyla)_ __% 10__ indirim uygulanmaktadır. Katılımcılar, eğitim programı ücretini dilerlerse __2 taksitte__ ödeyebilirler.
 
 ## Eğitim Programına Kayıt
-[Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZwtceiprD4tHtXEqQEGxHGWwl21Tft4-O61). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
+[Katılım için önce ön kayıt yaptırmalısınız](https://zoom.us/meeting/register/tJIrdOCtqT8oGNx7WyEmRBCpoDFasTWWcSRQ). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
 
 ## Sık Sorulan Sorular
 _Java ile Nesne Yönelimli Programalama Kursu_ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/Online_Java_ile_Nesne_Yonelimli_Programlama_Kursu/blob/master/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [_Oğuz Karan_ ile iletişime geçebilir](https://www.linkedin.com/in/o%C4%9Fuz-karan-28664b2b/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:oguzkaran@csystem.org)
