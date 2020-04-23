@@ -2,7 +2,7 @@
 
 + Bu kurs [C ve Sistem Programcıları Derneği](www.csystem.org) tarafından düzenlenmektedir. 
 
-+ Bu kurs katılımcıların öncelikle `Java` programlama dilini çok iyi öğrenmelerini ve yazılım üretiminde profesyonel düzeyde bu dili kullanma becerisi edinmelerini hedeflemektedir.
++ Bu kurs katılımcıların öncelikle _Java_ programlama dilini çok iyi öğrenmelerini ve yazılım üretiminde profesyonel düzeyde bu dili kullanma becerisi edinmelerini hedeflemektedir.
 
 + _Java_ programlama dilinin temel sentaksı ve semantik yapısı ayrıntılı olarak öğretilmektedir.
 
@@ -10,14 +10,14 @@
 
 + Türden Bağımsız Programlama _(Generic Programming)_ konusunda temel bilgiler verilmektedir.
 
-+ Eğitim programı yalnızca `Java` dilini öğretmeyi değil, tüm programlama ortamları için iyi, temiz ve etkin kod yazma alışkanlığı kazandırmayı da amaçlamaktadır. 
++ Eğitim programı yalnızca _Java_ dilini öğretmeyi değil, tüm programlama ortamları için iyi, temiz ve etkin kod yazma alışkanlığı kazandırmayı da amaçlamaktadır. 
 
 + Kurs içerisinde irili ufaklı bir çok program ve yararlı sınıflar yazılacaktır
 
 + Bazı derslerde konuların daha iyi anlaşılmasını sağlamak için veri yapılarına ve algoritmalara _(Data structures & algorithms)_ ilişkin temel kavramlar da anlatılmaktadır.
 
 ## Ön Koşul
-Bu programa katılabilmek için daha önce programlama ile tanışmış olmanız gerekmektedir. Derneğimizde düzenlenmekte olan "Programlamaya Giriş" ya da denzeri bir programı tamamlamış olmalısınız.
+Bu programa katılabilmek için daha önce programlama ile tanışmış olmanız gerekmektedir. Derneğimizde düzenlenmekte olan _Programlamaya Giriş_ ya da denzeri bir programı tamamlamış olmalısınız.
 
 ## Eğitim Süresi
 Programın toplam süresi _160_ saattir. 
@@ -32,7 +32,7 @@ Dersler hafta içi _Cumartesi - Pazar_ günleri saat _13-00 – 17-00_ saatleri 
 ## Eğitmen
 Kurs _C ve Sistem Programcıları Derneği_ başkan yardımcısı _Oğuz Karan_ tarafından verilmektedir. 
 _Oğuz Karan_ çeşitli pozisyonlarda pek çok projede bulunmuş ve pek çok kuruma eğitim vermekte ve danışmanlık yapmaktadır. 
-Eğitim ve danışmaklık verdiği kurumlar arasında 
+Eğitim ve danışmanlık verdiği kurumlar arasında 
 [Tübitak](https://www.tubitak.gov.tr/), 
 [Havelsan](https://www.havelsan.com.tr/), 
 [Roketsan](http://www.roketsan.com.tr/),
