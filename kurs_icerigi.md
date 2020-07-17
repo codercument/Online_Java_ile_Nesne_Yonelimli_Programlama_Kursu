@@ -156,7 +156,7 @@
 ## final değişkenler
 + final yerel değişkenler
 + final parametre değişkenleri
-+ final veri elemanlaro
++ final veri elemanları
   + final static veri elemanları
   + final non-static veri elemanları
 + _Singleton_ sınıf tasarımı: _eager implementation_
