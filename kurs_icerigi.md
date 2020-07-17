@@ -107,6 +107,21 @@
 + _String_ işlemlerine yönelik yararlı metotların yazılması
 + Örnek programlar
 
+## Paketler
++ Paket kavramı
++ Farklı paketlerdeki sınıflara erişim
++ İçiçe paket bildirimleri
++ Paketler ve dizinlerin ilişkisi
++ Paket isimlendirmesine ilişkin teknikler
++ Kaynak dizin _(source folder)_
++ Yazılmış olan yararlı sınıflara ilişki uygun paketler
+
+## İsim arama
++ Niteliksiz _(unqualified)_ isim arama
++ Nitelikli _(qualified)_ isim arama
++ _import_ bildirimleri _(import on demand declaration, import single type declaration)_
++ _import static_ bildirimleri _(import static on demand declaration, import static single type declaration)_
+
 ## Diziler (Arrays) ve uygulamalar
 + Dizi referansları
 + Diziye ilişkin nesnelerin bellekteki durumu
@@ -128,21 +143,6 @@
 + Matrisler ve matrislere ilişkin algoritmalar
 + Örnek programlar
 
-## Paketler
-+ Paket kavramı
-+ Farklı paketlerdeki sınıflara erişim
-+ İçiçe paket bildirimleri
-+ Paketler ve dizinlerin ilişkisi
-+ Paket isimlendirmesine ilişkin teknikler
-+ Kaynak dizin _(source folder)_
-+ Yazılmış olan yararlı sınıflara ilişki uygun paketler
-
-## İsim arama
-+ Niteliksiz _(unqualified)_ isim arama
-+ Nitelikli _(qualified)_ isim arama
-+ _import_ bildirimleri _(import on demand declaration, import single type declaration)_
-+ _import static_ bildirimleri _(import static on demand declaration, import static single type declaration)_
-
 ## Sınıflarda temel erişim kuralları
 + _public_ erişimcisi
 + _private_ erişimcisi
@@ -152,6 +152,28 @@
 + Başlangıç metodunun _private_ olması durumu
 + _Singleton_ sınıf tasarımı: _lazy implementation_
 + Örnek sınıflar
+
+## final değişkenler
++ final yerel değişkenler
++ final parametre değişkenleri
++ final veri elemanlaro
+  + final static veri elemanları
+  + final non-static veri elemanları
++ _Singleton_ sınıf tasarımı: _eager implementation_
++ immutable sınıf tasarımı
++ Örnek immutable sınıflar
+
+## enum sınıflar
++ enum sınıflar
++ enum sabitleri
++ enum sınıfların ordinal metotları
++ enum sınıfların values static metotları
++ enum sınıfların sabit dışındaki elemanları
++ enum sınıfların başlangıç metotları (constructor)
++ enum'ların eşitlik karşılaştırması
++ enum'ların karşılaştırılması
++ enum sınıfların kullanımı
++ Örnek enum sınıflar
 
 ## Sınıflar arası ilişkiler
 + _Composition_
