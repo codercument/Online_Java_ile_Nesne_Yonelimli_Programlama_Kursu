@@ -9,7 +9,7 @@
 + Kursun toplam ücreti __3.400 TL__'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) __3.100__ TL'dir. Kurs ücretini __3__ taksitte ödeyebilirsiniz. __(Peşin ödemelerde %10 indirim uygulanmaktadır)__
 
 ## Kursla ilgili bağlantılar
-+ [Kursun Genel Tanıtımı](xxxx)
++ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online_Java_ile_Nesne_Yonelimli_Programlama_Kursu/blob/master/kurs_tanitimi.md)
 + [Kurs İçeriği](https://github.com/CSD-1993/Online_Java_ile_Nesne_Yonelimli_Programlama_Kursu/blob/master/kurs_icerigi.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Online_Java_ile_Nesne_Yonelimli_Programlama_Kursu/blob/master/sss.md)
 + [Kursa Kayıt](https://us02web.zoom.us/meeting/register/tZckd--gpzgvE9cUZp3kNBE6zBk8jQHIsXGM)
