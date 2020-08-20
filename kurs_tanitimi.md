@@ -29,7 +29,7 @@ Dersler __Cumartesi - Pazar__ günleri saat __13-00 – 17-00__ saatleri arasın
 
 
 ## Eğitim İçeriği
-[__Eğitim içeriğini bu bağlantıdan görebilirsiniz.__](https://github.com/CSD-1993/Online-Cplusplus-Kursu/blob/master/kurs-icerigi.md)
+__[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/CSD-1993/Online-Cplusplus-Kursu/blob/master/kurs-icerigi.md)__
 
 ## Eğitmen
 Kurs __C ve Sistem Programcıları Derneği__ başkan yardımcısı __Oğuz Karan__ tarafından verilmektedir. 
@@ -58,7 +58,7 @@ Eğitim ve danışmanlık verdiği kurumlar arasında
 [Integral Yatırım](https://www.integralyatirim.com.tr/) yer almaktadır.
 
 ## Format
-+ *Java ile Nesne Yönelimli Programlama kursu* online olarak gerçek zamanlı verilmektedir. _Udemy, Pluralsight_ ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
++ __Java ile Nesne Yönelimli Programlama kursu*__ online olarak gerçek zamanlı verilmektedir. _Udemy, Pluralsight_ ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için __[Zoom](https://zoom.us/)__ yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
 
 + Program boyunca öğrencilere belirli aralıklarla ödevler verilmekte ve öğrencilerin yaptığı ödevler için öğrencilere geri besleme yapılmaktadır.
 
@@ -71,13 +71,13 @@ Eğitim ve danışmanlık verdiği kurumlar arasında
 + Öğrenciler kaçırdıkları dersleri ders tarihini izleyen 3 gün içinde kendilerine verilecek şifre ile _Vimeo_ üzerinden izleyebilirler.
 
 ## Eğitim Materyalleri
-_Java ile Nesne Yönelimli Programlama_ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github ve dropbox_ üzerinden paylaşılmaktadır.
+__Java ile Nesne Yönelimli Programlama__ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github ve dropbox_ üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
 + Kursun toplam ücreti __3.400 TL__'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) __3.100__ TL'dir. Kurs ücretini __3__ taksitte ödeyebilirsiniz. __(Peşin ödemelerde %10 indirim uygulanmaktadır)__
 
 ## Eğitim Programına Kayıt
-[Katılım için önce ön kayıt yaptırmalısınız](https://zoom.us/meeting/register/tJIrdOCtqT8oGNx7WyEmRBCpoDFasTWWcSRQ). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
+__[Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZckd--gpzgvE9cUZp3kNBE6zBk8jQHIsXGM)__. Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
 
 ## Sık Sorulan Sorular
-_Java ile Nesne Yönelimli Programalama Kursu_ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/Online_Java_ile_Nesne_Yonelimli_Programlama_Kursu/blob/master/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [_Oğuz Karan_ ile iletişime geçebilir](https://www.linkedin.com/in/o%C4%9Fuz-karan-28664b2b/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:oguzkaran@csystem.org)
+__Java ile Nesne Yönelimli Programalama Kursu__ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/Online_Java_ile_Nesne_Yonelimli_Programlama_Kursu/blob/master/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan __[_Oğuz Karan_ ile iletişime geçebilir](https://www.linkedin.com/in/o%C4%9Fuz-karan-28664b2b/)__ ya da ona bir __[e-posta mesajı gönderebilirsiniz](mailto:oguzkaran@csystem.org)__
