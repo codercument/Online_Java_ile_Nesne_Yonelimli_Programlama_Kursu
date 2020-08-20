@@ -1,7 +1,7 @@
 # Java ile Nesne Yönelimli Programlama
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından düzenlenmektedir.
-+ Kurs __09 Mayıs 2020 Cumartesi__ günü başlayacaktır.
++ Kurs __19 Eylül 2020 Cumartesi__ günü başlayacaktır.
 + __Covid19__ Salgını ile yapılan düzenlemeler dahilinde kursa geçici olarak fiziksel katılım söz konusu değildir. Ancak salgına ilişkin koşullar ve yasal düzenlemeler değiştiğinde fiziksel katılım mümkün olacaktır.
 + Kurs eğitmeni __Oğuz Karan__'dır.
 + Kurs gerçek zamanlıdır.
