@@ -6,6 +6,7 @@
 + Kurs eğitmeni __Oğuz Karan__'dır.
 + Kurs gerçek zamanlıdır.
 + Toplam kurs süresi __160__ saattir. Dersler __Cumartesi - Pazar__ günleri __17:00 - 21:00__ saatleri arasında yapılacaktır.
++ Kursun toplam ücreti __3.400 TL__'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) __3.100__ TL'dir. Kurs ücretini __3__ taksitte ödeyebilirsiniz. __(Peşin ödemelerde %10 indirim uygulanmaktadır)__
 
 ## Kursla ilgili bağlantılar
 + [Kursun Genel Tanıtımı](xxxx)
